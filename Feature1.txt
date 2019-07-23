@@ -1,1 +1,2 @@
-Added Feature 1 - testing 
+Added Feature 1 - Modified to introduce git conflict
+
